@@ -4,7 +4,7 @@ pipeline{
     stages{
         stage('Build'){
             steps{
-                echo "this is deepak reddy"
+                echo "this is deepak redd"
             }
         }
     }
